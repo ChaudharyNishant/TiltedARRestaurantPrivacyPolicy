@@ -25,13 +25,13 @@ The information collected from our users may be kept in our archives throughout 
 The App takes appropriate measures to protect and secure your personal information from unauthorized access or disclosure. However, no security or encryption method can be guaranteed to protect information from unauthorized (“hacked”) access or human error.
 
 
-<br><br>Users will be notified of any privacy policy changes:
+<br><br><br>Users will be notified of any privacy policy changes:
 <br>- On our Privacy Policy Page
 
 
 <br><br><h3>CONTACT</h3>
 If you have any questions or concerns about our privacy policies, please contact us:
-<br><br>playstorenishant@gmail.com
+<br><br><a href="mailto:playstorenishant@gmail.com?Subject=Tilted%20AR%20Restaurant%20Privacy%20Policy" target="_top">playstorenishant@gmail.com</a>
 
 
 <br><br><h3>UPDATES</h3>
