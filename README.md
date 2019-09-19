@@ -37,6 +37,7 @@ If you have any questions or concerns about our privacy policies, please contact
 
 
 <br><br><h3>UPDATES</h3>
-<br>This privacy policy was updated on June 10, 2019.<br><br>
-<br>This privacy policy was last updated on September 19, 2019.<br><br>
+<br>- This privacy policy was updated on June 10, 2019.
+
+<br>- This privacy policy was last updated on September 19, 2019.<br><br>
 </body>
