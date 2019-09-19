@@ -1,4 +1,4 @@
-<body>
+<body align="justify">
 <h1>Tilted AR Restaurant Privacy Policy</h1>
 <br>This privacy policy covers Tilted AR Restaurant's methods of using the data collected from users of Tilted AR Restaurant app (hence called 'the App'), and all the other entities involved in providing content and analytics. Some of the platforms that are used to display content, have their native privacy policy, which are valid for the App users.
 
