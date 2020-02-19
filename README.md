@@ -1,6 +1,6 @@
 <body align="justify">
 <h1>Tilted AR Restaurant Privacy Policy</h1>
-<br>This privacy policy covers Tilted AR Restaurant's methods of using the data collected from users of Tilted AR Restaurant app (hence called 'the App'), and all the other entities involved in providing content and analytics. Some of the platforms that are used to display content, have their native privacy policy, which are valid for the App users.
+<br>This privacy policy covers Tilted AR Restaurant's methods of using the data collected from users of Tilted AR Restaurant app (hence called 'the App'), and all the other entities involved in providing content and analytics. Some of the platforms that are used to display content have their native privacy policy, which is valid for App users.
 
 
 <br><br><h3>COLLECTED INFORMATION</h3>
@@ -8,15 +8,17 @@ We collect your information only to improve your experience using the App. We de
 
 <br><br>The data from the camera is neither recorded nor stored and it works as a medium between the real and the augmented world only.
 
-<br><br>Your personal identifiable information will be collected only if you choose to provide it. This will be the case if you fill in forms on the App with your name, contact information, etc.
+<br><br>User's Email id, full name and profile picture linked to the account used to sign in the App are used for displaying them in the App only and no copy of these leave your device. All the database references use a different unique id and not the Email id. No spams and any kind of mails are sent to the Email address.
+
+<br><br>Your personally identifiable information will be collected only if you choose to provide it. This will be the case if you fill in forms on the App with your name, contact information, etc.
 
 
 <br><br><h3>USAGE OF COLLECTED INFORMATION</h3>
-The information collected from our users may be kept in our archives throughout the entire existance of the App. Your data may be used for the following reasons:
+The information collected from our users may be kept in our archives throughout the entire existence of the App. Your data may be used for the following reasons:
 
-<br><br>- The data you enter in the form while placing an order along with Date, Time and device information (Device Name, Model, Android Version) is stored in our databases but are not used or shared with anybody else in any case. We use Firebase for that and its native privacy policies are valid.
+<br><br>- The data you enter in the form while placing an order along with Date, Time and device information (Device Name, Model, Android Version) is stored in our databases but are not used or shared with anybody else in any case. These are used for some features (Order History and Reorder) in the App and this information will be shown to the respective owner of the information only. No user can see the information from any other user. We use Firebase for the online database and its native privacy policies are valid.
 
-<br><br>- Whenever the App crashes, a bug report is automatically sent to the developer which contains device information and exception stacktrace. No personal information of the user is stored in this case. We use Firebase for that and its native privacy policies are valid.
+<br><br>- Whenever the App crashes, a bug report may automatically be sent to the developer which contains device information and exception stack trace. No personal information of the user is stored in this case. We use Firebase for that and its native privacy policies are valid.
 
 <br><br>- Anonymous information (what food items are ordered) might be at a later stage examined to analyze the most favoured items and the patterns in the orders to improve the menu of the App.
 
@@ -38,5 +40,6 @@ If you have any questions or concerns about our privacy policies, please contact
 
 <br><br><h3>UPDATES</h3>
 - This privacy policy was updated on June 10, 2019.<br>
-- This privacy policy was last updated on September 19, 2019.<br><br>
+- This privacy policy was updated on September 19, 2019.<br>
+- This privacy policy was last updated on February 19, 2020.<br><br>
 </body>
