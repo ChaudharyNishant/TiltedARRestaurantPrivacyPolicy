@@ -8,7 +8,7 @@ We collect your information only to improve your experience using the App. We de
 
 <br><br>The data from the camera is neither recorded nor stored and it works as a medium between the real and the augmented world only.
 
-<br><br>User's Email id, full name and profile picture linked to the account used to sign in the App are used for displaying them in the App only and no copy of these leave your device. All the database references use a different unique id and not the Email id. No spams and any kind of mails are sent to the Email address.
+<br><br>User's Email id, full name and profile picture linked to the account used to sign in the App are used for displaying them in the App only and are saved in our online databases. All the database references use a different unique id which is not the Email id. No spams and any kind of mails are sent to the Email address.
 
 <br><br>Your personally identifiable information will be collected only if you choose to provide it. This will be the case if you fill in forms on the App with your name, contact information, etc.
 
@@ -41,5 +41,6 @@ If you have any questions or concerns about our privacy policies, please contact
 <br><br><h3>UPDATES</h3>
 - This privacy policy was updated on June 10, 2019.<br>
 - This privacy policy was updated on September 19, 2019.<br>
-- This privacy policy was last updated on February 19, 2020.<br><br>
+- This privacy policy was updated on February 19, 2020.<br>
+- This privacy policy was last updated on February 21, 2020.<br><br>
 </body>
